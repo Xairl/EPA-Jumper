@@ -1,2 +1,0 @@
-Arduino code to control EPA (electric-Pneumatic Actuator) project. The robot in test is one leg. The tests are performed in the Locomotion Laboratory of TU Darmstadt.
-The project is for Alessandro's master thesis.
